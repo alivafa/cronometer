@@ -1,2 +1,2 @@
-# calculator
-# calculator simple whit javascript
+# cronometer
+# cronometer simple with javascript
