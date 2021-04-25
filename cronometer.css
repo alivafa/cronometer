@@ -1,0 +1,22 @@
+
+body{
+    background: #f1eaea;
+}
+#wrapper{
+    text-align: center;
+}
+#start{
+    background: #4d4dbc;
+    padding: 5px;
+    margin: 10px;
+}
+#stop{
+    background: red;
+    padding: 5px;
+    margin: 10px;
+}
+#reset{
+    background: greenyellow;
+    padding: 5px;
+    margin: 10px;
+}
